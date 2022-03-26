@@ -1,0 +1,6 @@
+application
+stubs/aws
+docker
+scripts
+
+AWSCLIV2.pkg

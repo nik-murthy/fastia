@@ -1,0 +1,11 @@
+{
+  "pk": "HOSPITAL#Campbelltown",
+  "sk": "NSW",
+  "hospitals": [
+    {
+      "name": "Campbelltown Hospital",
+      "type": "Public",
+      "beds": "200-500"
+    }
+  ]
+}

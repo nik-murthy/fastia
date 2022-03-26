@@ -1,0 +1,15 @@
+{
+  "pk": "SUBURB#Campbelltown",
+  "sk": "NSW",
+  "lat": "",
+  "long": "",
+  "wikiDesc": "",
+  "lga": "",
+  "lgaType": "",
+  "score": "not returned in response and used for sort internally",
+  "postcode": "2560",
+  "demographicsId": "DEMO#Campbelltown",
+  "hospitalsId": "HOSPITAL#Campbelltown",
+  "universitiesId": "UNIS#Campbelltown",
+  "otherInfoId": "OTHER#Campbelltown"
+}

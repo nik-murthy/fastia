@@ -1,0 +1,17 @@
+{
+  "pk": "DEMO#Campbelltown",
+  "sk": "NSW",
+  "totalPopulation": "",
+  "internalMigrations": "",
+  "maxInternalMigrations": "",
+  "overseasMigrations": "",
+  "maxOverseasMigrations": "",
+  "workingAgePopulationPercentage": "",
+  "percentageDistributionByAge": {
+    "0-20": "",
+    "20-35": "",
+    "35-45": "",
+    "45-65": "",
+    "65+": ""
+  }
+}
